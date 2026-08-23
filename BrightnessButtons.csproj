@@ -6,5 +6,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <AssemblyName>BrightnessButtons</AssemblyName>
+    <ApplicationIcon>app-icon.ico</ApplicationIcon>
   </PropertyGroup>
 </Project>

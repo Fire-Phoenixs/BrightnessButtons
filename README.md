@@ -20,6 +20,8 @@
 
 直接运行 [`dist/BrightnessButtons.exe`](dist/BrightnessButtons.exe)，无需安装。点击按钮即可同时调整所有活动显示器。
 
+程序图标为中央太阳亮度符号，源图与 Windows 图标文件分别为 [`app-icon.png`](app-icon.png) 和 [`app-icon.ico`](app-icon.ico)。
+
 ## 从源码构建
 
 环境要求：Windows、.NET 8 SDK、Windows Desktop Runtime。
